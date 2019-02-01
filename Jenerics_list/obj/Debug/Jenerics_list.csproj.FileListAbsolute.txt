@@ -1,0 +1,7 @@
+D:\С# project\Jenerics_list\Jenerics_list\bin\Debug\Jenerics_list.exe.config
+D:\С# project\Jenerics_list\Jenerics_list\bin\Debug\Jenerics_list.exe
+D:\С# project\Jenerics_list\Jenerics_list\bin\Debug\Jenerics_list.pdb
+D:\С# project\Jenerics_list\Jenerics_list\obj\Debug\Jenerics_list.csprojAssemblyReference.cache
+D:\С# project\Jenerics_list\Jenerics_list\obj\Debug\Jenerics_list.csproj.CoreCompileInputs.cache
+D:\С# project\Jenerics_list\Jenerics_list\obj\Debug\Jenerics_list.exe
+D:\С# project\Jenerics_list\Jenerics_list\obj\Debug\Jenerics_list.pdb
